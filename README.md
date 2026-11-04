@@ -14,7 +14,7 @@ Página de apresentação do filme *Super Mario Bros.*, feita para praticar HTML
 - JavaScript puro (abre e fecha o modal do trailer)
 
 ## Como ver
-Abra o arquivo `index.html` no navegador. Para publicar, ative o GitHub Pages em **Settings > Pages > Branch: main** e a página fica em `https://username666-boop.github.io/projeto-mario/`.
+Abra o arquivo `index.html` no navegador. Para publicar, ative o GitHub Pages em **Settings > Pages > Branch: main** e a página fica em `https://zet-dev.github.io/projeto-mario/`.
 
 ## Estrutura
 ```
